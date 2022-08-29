@@ -1,47 +1,55 @@
-body{
+body {
     font-family: 'Roboto Mono', monospace;
-font-family: 'Roboto Slab', serif;
-margin:auto;
-padding:0px;
-background-color: dimgray;
+    font-family: 'Roboto Slab', serif;
+    margin: auto;
+    padding: 0px;
+    background-color: dimgray;
 
 }
-.main{
+
+.main {
     background-color: aliceblue;
 }
+
 .first-continar {
-    background-image:url(donation5.jpg);
+    background-image: url(donation5.jpg);
     background-repeat: no-repeat;
-    padding-top:5px;
+    padding-top: 5px;
     margin-left: 75px;
     width: 100%;
     height: 500px;
 
-    
+
 }
+
 .firsat-all-div {
     padding-left: 150px;
     padding-top: 119px;
 }
+
 .first-div {
     color: mintcream;
     font-size: 40px;
     margin-bottom: -12px;
 }
-.first-div-1{
-    font-size:16px ;
+
+.first-div-1 {
+    font-size: 16px;
     color: antiquewhite;
     padding-left: 154px;
 
 }
+
 .button-1 {
     padding-left: 374px;
     padding-top: 20px;
 
 }
+
 .button-2 {
     font-size: 20px;
 }
+
 .button {
     text-decoration: none;
     color: white;
@@ -61,12 +69,14 @@ background-color: dimgray;
     height: auto;
     font-size: 40px;
 }
+
 .second-all-div {
     display: inline-flex;
     align-items: center;
     color: aliceblue;
     margin-left: 221px;
 }
+
 .div-2 {
     width: 164px;
     height: 92px;
@@ -85,27 +95,32 @@ background-color: dimgray;
     color: black;
 }
 
-.taka{
+.taka {
     font-size: 20px;
     border-bottom: 2px solid;
-    width:500px;
+    width: 500px;
     margin-left: 410px;
     margin-bottom: 26px;
 }
 
 
-.thard-containr{
+.thard-containr {
     align-items: center;
     justify-content: center;
     text-align: center;
 }
+
 .all-div-three {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.imgs{width: 50px;} 
-.div-3{
+
+.imgs {
+    width: 50px;
+}
+
+.div-3 {
     width: 285px;
     height: 272px;
     margin-left: 16px;
@@ -115,12 +130,15 @@ background-color: dimgray;
     border-radius: 10px;
     color: rgb(209, 199, 184);
 }
+
 div#div-3\.1 {
     background-color: rgba(185, 134, 68, 0.712);
 }
+
 div#div-3\.2 {
     background-color: rgba(144, 142, 138, 0.753);
 }
+
 div#div-3\.3 {
     background-color: rgba(43, 102, 170, 0.801);
 }
@@ -129,12 +147,13 @@ div#div-3\.3 {
 
 /* --------------------------------------------- */
 
-.forth-continar{
+.forth-continar {
     text-align: center;
     justify-content: center;
     align-items: center;
     font-size: 28px;
 }
+
 .form {
     margin-left: 348px;
     width: 600px;
@@ -142,6 +161,7 @@ div#div-3\.3 {
     background-color: #c7c0a4;
     border-radius: 10px;
 }
+
 #email {
     padding: 12px;
     background-color: antiquewhite;
@@ -149,6 +169,7 @@ div#div-3\.3 {
     border-radius: 5px;
     margin-top: 88px
 }
+
 #button {
     margin-left: -9px;
     padding: 12px;
@@ -156,13 +177,18 @@ div#div-3\.3 {
     /* border: 2px solid; */
     border-radius: 5px;
 }
-.footer{
+
+
+.fift-container {}
+
+.footer {
     background-color: black;
     text-align: center;
     color: aliceblue;
     height: 150px;
 }
-footer h2{
+
+footer h2 {
     font-style: italic;
     font-size: 40px;
     color: #c71616;
