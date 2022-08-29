@@ -181,6 +181,42 @@ div#div-3\.3 {
 
 .fift-container {}
 
+
+.div-maine {
+    display: flex;
+    padding: 20px;
+}
+
+
+.all-div-5 {
+    color: azure;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    background-color: coral;
+    width: 944px;
+    font-size: 24px;
+}
+
+.div-4 {
+    width: 137px;
+    height: 100px;
+    background-color: #ffdab924;
+    padding: 0px;
+    margin: 17px;
+}
+
+.title {
+    background-color: darkslateblue;
+    width: 400px;
+    height: 155px;
+    text-align: center;
+    color: antiquewhite;
+    font-family: inherit;
+    font-size: larger;
+}
+
 .footer {
     background-color: black;
     text-align: center;
